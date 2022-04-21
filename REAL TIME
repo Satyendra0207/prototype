@@ -1,1 +1,38 @@
+INTRODUCTION
+This idea is completely based on the real life observation which we all have been through . It is related to our railway management ,
+specifically berth allocation management using IOT and based on that I named it
+ “REAL TIME BERTH CONFIRMATION SYSTEM”.
+
+Motive behind this idea is to reduced the workload of the 
+Train Ticket Examiner (TTE)of Indian Railways whose work is completely offline based in this era of Online . 
+
+OBJECTIVE
+The main objective behind this idea and observation is to mitigate the workload for TTE by automating the verification process (not completely) , 
+involving the passengers who are travelling.
+
+IMPLEMENTATION
+STEP-1
+SACN OF QR CODE AVAILABLE ON THE EACH BIRTH AND ALSO PASSENGERS MOBILE NO
+
+STEP -2 
+IRCTC LOGIN WEBSITE
+LOGIN USING PNR NO 
+
+STEP -3
+LIST OF PASSENGER ASSOACIATED WITH THE PNR NO 
+SELECT THE CHECK BOX OF YES TO NO TO SPECIFY YOUR STATUS OF OCCUPYING THE SEAT
+HIT THE UPDATE BUTTON
+
+STEP-4 
+A SMALL SYSTEM AVAILABLE AT TTE'S CHAMBER WHERE ALL THE UPDATED INFORMATION IS PRESENT AND NOW HE HAS TO ONLY CHECK FOR THE SEATS WHOOSE STATUS IS NOT AVIALABLE
+
+OUTCOME:
+1- TTE and the administrator has now idea of which seat is occupied or not occupied 
+2- With this they can allot seats to WL / RAC passengers.
+3- TTE has to only concern about the seats whose status in Not available and has verify selected seats for their occupancy status 
+4- Carrying of updated chart is resolved with just one device and real time monitoring of seats in at TTE’s hand 
+
+RESULT
+In this idea can not completely replace the TTE’s work because at the a person is needed to re verify and check personally,
+but it can mitigates his work by limiting his number of verification that he has to do in every coach of 20-30 or more .
 
